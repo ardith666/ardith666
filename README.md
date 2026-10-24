@@ -46,7 +46,7 @@ My interests sit at the intersection of education, engineering, and open source:
 
 ## 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardith666&count_private=true&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=ardith666&theme=radical)
 ![Top languages](https://github-readme-stats.vercel.app/top-langs/?username=ardith666&layout=compact&theme=radical)
 
 ---
